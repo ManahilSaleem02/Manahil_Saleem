@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Manahil Saleem - Cybersecurity Portfolio</title>
-</head>
-<body>
-
-  <h1>Hi, I'm Manahil! 👋</h1>
+  <h1>Hi, I'm Manahil! </h1>
   <h2>Cybersecurity Professional</h2>
   <hr>
 
